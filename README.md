@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Flávio</h1>
-<h3 align="center">A passionate Senior PHP Backend Engineer from Brazil</h3>
-<h4 align="center">I started with software development in 2007. Since 2013 I have been working as a full-time freelancer using in the most of cases the PHP/Laravel framework and Javascript(Vanilla or Frameworks like Vue.js/React).  
-</h4>
+<h3 align="center">A passionate Senior PHP Engineer from Brazil. I am a Zend Certified Engineer <a href="http://www.zend.com/en/yellow-pages/ZEND019415">http://www.zend.com/en/yellow-pages/ZEND019415</a></h3>
+<h4 align="center">I started with software development in 2007. Since 2013 I have been working as a full-time freelancer Senior Backend/Frontend **Full-stack**.</h4>
 
-<p align="left">I am a Zend Certified Engineer <a href="http://www.zend.com/en/yellow-pages/ZEND019415">http://www.zend.com/en/yellow-pages/ZEND019415</a>.</p>
-
-<p align="left">I have experience with PHP, Laravel (3,4,4.1,4.2, 5.1, 5.2, 5.3, 5.4, 5.5, 5.7, 6.0, 7.0+), Javascript, Node, Vue.js, Angular.js, Mysql, MongoDb, SqLite.</p>
+<p align="left">I have experience with PHP since 2009, Laravel Since 2013(Version 3) until now version 8, Javascript, Node, Vue.js, Angular.js, React, Mysql, MongoDb, SqLite, Magento, Prestashop, Woocommerce, Wordpress, Symfony, Bagisto and other tools.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fhferreira&label=Profile%20views&color=0e75b6&style=flat" alt="fhferreira" /> </p>
 

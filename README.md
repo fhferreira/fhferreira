@@ -20,8 +20,6 @@
 
 - 💬 Ask me about **PHP, Javascript, Mysql, Vue, Laravel**
 
-- 📫 How to reach me **flaviometalvale@gmail.com**
-
 - 📄 Know about my experiences [https://www.upwork.com/freelancers/~011045a901d666b774](https://www.upwork.com/freelancers/~011045a901d666b774)
 
 - ⚡ I love to play **Soccer and Counter-Strike**
